@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Khrzm
 - 👀 I’m interested in Linux, Software Engineering, and Web Development especially front-end
-- 🌱 I’m currently learning Java
-- 📫 If you need something let me know on ig. @imamilhamkh
+- 📫 If you need something let me know
 
 <!---
 Khrzm/Khrzm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
