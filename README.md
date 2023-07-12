@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khrzm
-- 👀 I’m interested in Linux, Software Engineering, and Web Development especially front-end
+- 👀 I’m interested in Software Engineering, and Web Development especially front-end
 - 📫 If you need something let me know
 
 <!---
