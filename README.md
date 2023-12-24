@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Khrzm
-- 👀 I’m interested in Software Engineering, and Web Development especially front-end
-- 📫 If you need something let me know
+- Hi, it's @Khrzm
+- If you need something let me know
 
 <!---
 Khrzm/Khrzm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
